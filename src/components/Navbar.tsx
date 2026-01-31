@@ -44,7 +44,7 @@ export default function Navbar({ activeTab, onTabChange }: NavbarProps) {
         <nav className="navbar">
             <div className="container">
                 <a className="navbar-brand" onClick={() => onTabChange('home')} style={{ cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                    <img src="/logo.png" alt="Vexora" style={{ width: '40px', height: '40px', borderRadius: '8px' }} />
+                    <img src="/logo.png" alt="" style={{ width: '40px', height: '40px', borderRadius: '8px', objectFit: 'contain' }} />
                     <span style={{ fontWeight: '800', fontSize: '1.5rem', letterSpacing: '-0.025em' }}>{t('title')}</span>
                 </a>
 

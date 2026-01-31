@@ -2,7 +2,7 @@ export type Language = 'en' | 'te' | 'ta' | 'ml' | 'hi' | 'kn' | 'bn';
 
 export const translations = {
     en: {
-        title: 'Vexora',
+        title: 'DeepFake-Home',
         heroTitle: 'Detect Deepfakes, Stop Cyber Frauds',
         heroSubtitle: 'Advanced AI analysis to identify fake URLs, Images, Texts, and Videos in real-time.',
         features: 'Features',
@@ -90,7 +90,7 @@ export const translations = {
         processing: 'Processing...',
     },
     te: {
-        title: 'డీప్‌ఫేక్ హోమ్స్',
+        title: 'DeepFake-Home',
         heroTitle: 'డీప్‌ఫేక్‌లను గుర్తించండి, సైబర్ మోసాలను ఆపండి',
         heroSubtitle: 'నకిలీ URLలు, చిత్రాలు, వచనం మరియు వీడియోలను నిజ సమయంలో గుర్తించడానికి అధునాతన AI విశ్లేషణ.',
         features: 'లక్షణాలు',
@@ -165,7 +165,7 @@ export const translations = {
         detailedTechnicalAnalysis: 'వివరణాತ್ಮక సాంకేతిక విశ్লেషణ',
     },
     ta: {
-        title: 'டீப்ஃபேக் ஹோம்ஸ்',
+        title: 'DeepFake-Home',
         heroTitle: 'டீப்ஃபேக்குகளைக் கண்டறிந்து, இணைய மோசடிகளைத் தடுக்கவும்',
         heroSubtitle: 'போலி URLகள், படங்கள், உரை மற்றும் வீடியோக்களை நிகழ்நேரத்தில் அடையாளம் காண மேம்பட்ட AI பகுப்பாய்வு.',
         features: 'அம்சங்கள்',
@@ -246,7 +246,7 @@ export const translations = {
         processing: 'செயலாக்கம்...',
     },
     ml: {
-        title: 'ഡീപ്ഫേക്ക് ഹോംസ്',
+        title: 'DeepFake-Home',
         heroTitle: 'ഡീപ്ഫേക്കുകൾ കണ്ടെത്തുക, സൈബർ തട്ടിപ്പുകൾ തടയുക',
         heroSubtitle: 'വ്യാജ URL-കൾ, ചിത്രങ്ങൾ, ടെക്സ്റ്റ്, വീഡിയോകൾ എന്നിവ തത്സമയം തിരിച്ചറിയാൻ വിപുലമായ AI വിശകലനം.',
         features: 'സവിശേഷതകൾ',
@@ -327,7 +327,7 @@ export const translations = {
         processing: 'പ്രോസസ്സിംഗ്...',
     },
     hi: {
-        title: 'डीपफेक होम्स',
+        title: 'DeepFake-Home',
         heroTitle: 'डीपफेक पहचानें, साइबर धोखाधड़ी रोकें',
         heroSubtitle: 'वास्तविक समय में नकली यूआरएल, चित्र, पाठ और वीडियो की पहचान करने के लिए उन्नत एआई विश्लेषण।',
         features: 'विशेषताएँ',
@@ -408,7 +408,7 @@ export const translations = {
         processing: 'प्रसंस्करण...',
     },
     kn: {
-        title: 'ಡೀಪ್‌ಫೇಕ್ ಹೋಮ್ಸ್',
+        title: 'DeepFake-Home',
         heroTitle: 'ಡೀಪ್‌ಫೇಕ್‌ಗಳನ್ನು ಪತ್ತೆ ಮಾಡಿ, ಸೈಬರ್ ವಂಚನೆಗಳನ್ನು ತಡೆಯಿರಿ',
         heroSubtitle: 'ನಕಲಿ URLಗಳು, ಚಿತ್ರಗಳು, ಪಠ್ಯ ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ನೈಜ ಸಮಯದಲ್ಲಿ ಗುರುತಿಸಲು ಸುಧಾರಿತ AI ವಿಶ್ಲೇಷಣೆ.',
         features: 'ವೈಶಿಷ್ಟ್ಯಗಳು',
@@ -489,7 +489,7 @@ export const translations = {
         processing: 'ಸಂಸ್ಕರಿಸಲಾಗುತ್ತಿದೆ...',
     },
     bn: {
-        title: 'ডিপফেক হোমস',
+        title: 'DeepFake-Home',
         heroTitle: 'ডিপফেক শনাক্ত করুন, সাইবার প্রতারণা বন্ধ করুন',
         heroSubtitle: 'রিয়েল-টাইমে নকল ইউআরএল, ছবি, টেক্সট এবং ভিডিও শনাক্ত করতে উন্নত এআই বিশ্লেষণ।',
         features: 'বৈশিষ্ট্য',

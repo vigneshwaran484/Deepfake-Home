@@ -33,7 +33,7 @@ function App() {
       <footer className="footer">
         <div className="container">
           <p>
-            © 2026 Vexora26 — AI-Powered Deepfake Detection System
+            © 2026 DeepFake-Home — AI-Powered Deepfake Detection System
           </p>
         </div>
       </footer>

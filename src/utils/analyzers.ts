@@ -1,4 +1,4 @@
-// Vexora26 - Analysis Utilities with AI/ML Integration
+// DeepFake-Home - Analysis Utilities with AI/ML Integration
 // These utilities provide deepfake and scam detection analysis
 
 export interface AnalysisResult {

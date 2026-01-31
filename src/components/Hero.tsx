@@ -64,7 +64,7 @@ export default function Hero({ onNavigate }: HeroProps) {
                     <div className="hero-badge" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem', marginBottom: '2rem' }}>
                         <div className="hero-logo-container" style={{ position: 'relative' }}>
                             <div className="hero-logo-glow" style={{ position: 'absolute', inset: '-20px', background: 'var(--cyan-primary)', filter: 'blur(40px)', opacity: '0.3', borderRadius: '50%' }}></div>
-                            <img src="/logo.png" alt="Vexora Logo" style={{ width: '120px', height: '120px', borderRadius: '24px', position: 'relative', zIndex: 1, boxShadow: '0 20px 40px rgba(0,0,0,0.5)', border: '1px solid rgba(255,255,255,0.1)' }} />
+                            <img src="/logo.png" alt="" style={{ width: '120px', height: '120px', borderRadius: '24px', position: 'relative', zIndex: 1, boxShadow: '0 20px 40px rgba(0,0,0,0.5)', border: '1px solid rgba(255,255,255,0.1)', objectFit: 'contain' }} />
                         </div>
                         <div className="badge-content" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', background: 'rgba(34, 211, 238, 0.1)', padding: '0.5rem 1rem', borderRadius: '2rem', border: '1px solid rgba(34, 211, 238, 0.2)' }}>
                             <Shield size={16} className="text-cyan-primary animate-pulse" />
